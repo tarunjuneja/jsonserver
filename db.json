@@ -5,5 +5,8 @@
       "title": "Sample post title",
       "body": "Sample post body"
     }
-  ]
+  ],
+  "profile": {
+    "name": "test"
+  }
 }
